@@ -33,6 +33,8 @@
  * Please inquire about commercial licensing options at
  * contact@bluekitchen-gmbh.com
  *
+ 
+ Joao
  */
 
 #define __BTSTACK_FILE__ "main.c"
